@@ -43,9 +43,7 @@ Soy un estudiante comprometido con la transformación digital, con conocimientos
 
 ## 📫 Contacto
 
-- 📧 juanfelipequirosb@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 💻 [Portafolio Web](https://tusitioejemplo.com) *(opcional)*
+- 📧 felipequiros416@gmail.com  
 
 ---
 
